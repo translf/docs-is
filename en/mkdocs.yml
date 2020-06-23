@@ -489,7 +489,7 @@ extra:
       link: https://twitter.com/wso2
     - type: linkedin
       link: https://www.linkedin.com/company/wso2
-  site_version: new_restructure
+  site_version: iam-c
 
   nav_list:
     - Home
